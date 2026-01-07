@@ -1,4 +1,4 @@
-# 📦 AgilStore - Gerenciamento de Inventário
+#  AgilStore - Gerenciamento de Inventário
 
 Projeto desenvolvido para o desafio da 2ª Fase Processo seletivo - Aceleradora Ágil. Sistema de CLI (Linha de Comando) para gerenciamento de estoque.
 
